@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Todoapp_api_reduxsaga/static/css/main.676fb61b.chunk.css",
+    "main.js": "/Todoapp_api_reduxsaga/static/js/main.541ad34f.chunk.js",
+    "main.js.map": "/Todoapp_api_reduxsaga/static/js/main.541ad34f.chunk.js.map",
+    "runtime-main.js": "/Todoapp_api_reduxsaga/static/js/runtime-main.53c1db5a.js",
+    "runtime-main.js.map": "/Todoapp_api_reduxsaga/static/js/runtime-main.53c1db5a.js.map",
+    "static/js/2.693d63a3.chunk.js": "/Todoapp_api_reduxsaga/static/js/2.693d63a3.chunk.js",
+    "static/js/2.693d63a3.chunk.js.map": "/Todoapp_api_reduxsaga/static/js/2.693d63a3.chunk.js.map",
+    "index.html": "/Todoapp_api_reduxsaga/index.html",
+    "static/css/main.676fb61b.chunk.css.map": "/Todoapp_api_reduxsaga/static/css/main.676fb61b.chunk.css.map",
+    "static/js/2.693d63a3.chunk.js.LICENSE.txt": "/Todoapp_api_reduxsaga/static/js/2.693d63a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c1db5a.js",
+    "static/js/2.693d63a3.chunk.js",
+    "static/css/main.676fb61b.chunk.css",
+    "static/js/main.541ad34f.chunk.js"
+  ]
+}
