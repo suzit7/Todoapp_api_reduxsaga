@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color : white;
+  color : 'yellow';
+  
+}
+
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+.heading{
+
+  text-align: center;
+
+}
+
+.input{
+  text-align: center;
+  margin-left: 44%;
+  size: 100px;
+}
